@@ -4,4 +4,3 @@ fn main() {
     println!("{}", a + b);
     println!("Hello, world!");
 }
-

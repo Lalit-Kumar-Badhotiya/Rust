@@ -1,3 +1,4 @@
+
 fn main() {
     let x: i32 = 10;
     let y: f64 = 20.5;
